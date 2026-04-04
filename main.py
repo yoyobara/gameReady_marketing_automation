@@ -1,6 +1,5 @@
-def main():
-    print("Hello from gameready-marketing-automation!")
-
+def main() -> None:
+    pass
 
 if __name__ == "__main__":
     main()
