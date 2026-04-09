@@ -1,0 +1,148 @@
+{
+  "creative_angles": [
+    {
+      "angle_number": 1,
+      "angle_name": "The Career Pivot",
+      "description": "Position GameReady as the solution for career-changers looking to escape unfulfilling jobs and enter the lucrative gaming industry. Focus on real salary potential and job security in tech.",
+      "sample_headline": "Quit Your Desk Job. Build Games Instead.",
+      "sample_body": "GameReady isn't another YouTube tutorial. Get 1-on-1 mentorship from industry pros, ship a real game, and land a job at studios paying $80K–$150K+. Your new career starts here.",
+      "target_audience": "Career-switchers aged 25-45, mid-level professionals in non-tech fields",
+      "emotional_trigger": "Frustration with current job + excitement about doing something creative"
+    },
+    {
+      "angle_number": 2,
+      "angle_name": "The Parent Angle",
+      "description": "Appeal to parents wanting to give their kids a legitimate, future-proof education. Emphasize the Gold Tier credential, mentorship safety, and real career outcomes.",
+      "sample_headline": "Your Teen's Gaming Obsession Just Became Their Most Valuable Skill",
+      "sample_body": "Instead of worry, watch your child build professional-grade games. Epic Games-certified mentorship. Portfolio-ready by graduation. Real job offers from real studios.",
+      "target_audience": "Parents of teens/young adults aged 16-22",
+      "emotional_trigger": "Parental pride + relief that their kid's passion has a profitable future"
+    },
+    {
+      "angle_number": 3,
+      "angle_name": "The Creator Economy Angle",
+      "description": "Frame GameReady as a path to indie game success—build, publish, monetize. Appeal to content creators and those wanting creative independence.",
+      "sample_headline": "From Gamer to Game Creator. Own Your Success.",
+      "sample_body": "Skip the corporate ladder. Learn Unreal Engine from mentors who've shipped indie hits. Graduate with a game you can sell, stream, and monetize. Build your empire.",
+      "target_audience": "Streamers, YouTubers, content creators aged 18-35",
+      "emotional_trigger": "Desire for creative control + passion for building something their audience loves"
+    },
+    {
+      "angle_number": 4,
+      "angle_name": "The Credential Credibility",
+      "description": "Lead with the Epic Games Gold Tier badge. This is the 'Harvard of game development' angle—emphasize prestige, recognition, and hiring manager respect.",
+      "sample_headline": "Epic Games Certified. Hiring Managers Notice.",
+      "sample_body": "GameReady isn't self-taught. It's officially blessed by Epic Games. Your diploma carries weight. Studios hire based on this credential. This isn't a nice-to-have—it's a game-changer.",
+      "target_audience": "Professionals seeking legitimacy and credibility, career-switchers concerned about credentials",
+      "emotional_trigger": "Desire for recognition + confidence that the path is 'the right one'"
+    },
+    {
+      "angle_number": 5,
+      "angle_name": "The Speed-to-Market",
+      "description": "Emphasize rapid skill acquisition and portfolio completion. 'Ship a game in X months' rather than years of self-teaching or traditional schooling.",
+      "sample_headline": "Stop Watching Tutorials. Start Shipping Games.",
+      "sample_body": "Traditional game dev takes years. GameReady compresses that into months. Personalized mentorship means no wasted time. Graduate with a published game ready to show employers.",
+      "target_audience": "Ambitious learners, adults with limited free time, those wanting quick career entry",
+      "emotional_trigger": "Impatience with slow progress + eagerness to prove capability"
+    },
+    {
+      "angle_number": 6,
+      "angle_name": "The Unity Refugee",
+      "description": "Target frustrated Unity developers with a specialized migration path. Position Unreal as the 'industry standard' and GameReady as the bridge.",
+      "sample_headline": "Unity Burned You. Unreal Rewards You.",
+      "sample_body": "If you know Unity, you're 50% of the way there. Our specialized migration path makes the jump painless. Land higher-paying roles at Unreal-focused studios in weeks, not years.",
+      "target_audience": "Existing game developers familiar with Unity, those frustrated with Unity's direction",
+      "emotional_trigger": "Frustration with current tool + excitement about a better platform"
+    },
+    {
+      "angle_number": 7,
+      "angle_name": "The Community Power",
+      "description": "Highlight the networking value—peer collaboration, industry connections, lifelong community. Build games together, not alone.",
+      "sample_headline": "Learn Alone. Succeed Together.",
+      "sample_body": "GameReady isn't just mentorship—it's a 500+ person community of future game devs. Collaborate on projects. Network with industry vets. Your next job opportunity might come from a classmate.",
+      "target_audience": "Social learners, those valuing networking, aspiring entrepreneurs and indie devs",
+      "emotional_trigger": "Fear of isolation + desire to belong to a high-level peer group"
+    },
+    {
+      "angle_number": 8,
+      "angle_name": "The Poverty-to-Prestige",
+      "description": "Storytelling angle: From struggling artist/gamer to respected game dev professional. Emphasize accessibility and opportunity for anyone.",
+      "sample_headline": "You Don't Need a Fortune to Build One.",
+      "sample_body": "Game dev careers pay $80K–$200K, but most training programs cost a fortune. GameReady is affordable. Flexible. Online. No prerequisites. Just determination. That's it.",
+      "target_audience": "Low-income individuals, international students, those skeptical of traditional education ROI",
+      "emotional_trigger": "Hope for better life + determination to break into tech despite circumstances"
+    },
+    {
+      "angle_number": 9,
+      "angle_name": "The Vs. Comparison (Bootcamp Killer)",
+      "description": "Head-to-head positioning against expensive bootcamps. Emphasize mentorship quality, cost savings, and flexibility—without the debt or rigid schedule.",
+      "sample_headline": "$20K Bootcamp vs. GameReady: We Win.",
+      "sample_body": "Bootcamps are fast but impersonal, expensive, and rigid. GameReady offers mentorship-first learning at 1/3 the cost. Flexible timing. Same job outcomes. Better value.",
+      "target_audience": "Those considering bootcamps, cost-conscious learners, skeptics of traditional training",
+      "emotional_trigger": "Desire for value + skepticism of expensive, overcrowded programs"
+    },
+    {
+      "angle_number": 10,
+      "angle_name": "The Passion Project",
+      "description": "Emotional angle: Turn what you love (games) into what you do for work. Emphasize fulfillment, passion-driven career building.",
+      "sample_headline": "Play Games for a Living. Seriously.",
+      "sample_body": "You've sunk 10,000 hours into games. GameReady teaches you to channel that obsession into a career you'll love. Build experiences others adore. Get paid for your passion.",
+      "target_audience": "Hardcore gamers, those in love with gaming culture, dreamers wanting 'dream jobs'",
+      "emotional_trigger": "Nostalgia + desire to do what they love + belief that passion + skill = money"
+    },
+    {
+      "angle_number": 11,
+      "angle_name": "The Diversity & Inclusion",
+      "description": "Spotlight underrepresented voices in gaming. Position GameReady as inclusive, welcoming, and actively building diverse talent pipelines.",
+      "sample_headline": "Game Dev Needs More Voices Like Yours.",
+      "sample_body": "Gaming needs diversity. GameReady welcomes all backgrounds, identities, and experience levels. Learn from mentors who look like you. Build games that represent everyone.",
+      "target_audience": "Women, LGBTQ+, people of color, international students, underrepresented groups in tech",
+      "emotional_trigger": "Desire for representation + feeling welcomed in an traditionally exclusive industry"
+    },
+    {
+      "angle_number": 12,
+      "angle_name": "The Recession-Proof Career",
+      "description": "Position gaming as a recession-resistant, future-proof industry. Emphasize job security, growth trends, and economic stability.",
+      "sample_headline": "Recession-Proof Your Paycheck. Go Game Dev.",
+      "sample_body": "Gaming is recession-proof. Whether markets crash or soar, people play games. Game devs earn stable, high salaries. In uncertain times, build a future that matters.",
+      "target_audience": "Economic-anxious professionals, those in volatile industries, older workers seeking stability",
+      "emotional_trigger": "Fear of job loss + desire for security + optimism about gaming's future"
+    },
+    {
+      "angle_number": 13,
+      "angle_name": "The Global Opportunity",
+      "description": "Emphasize 100% online access for international students. Position GameReady as a global platform with no geographic limitations.",
+      "sample_headline": "Your Dream Game Dev Job Doesn't Care Where You Live.",
+      "sample_body": "Based in Tokyo? São Paulo? Berlin? GameReady is 100% online. Learn from international mentors. Apply to studios worldwide. Geography is no barrier.",
+      "target_audience": "International students, those outside major tech hubs, non-English speakers (if applicable)",
+      "emotional_trigger": "Desire for opportunity without relocation + excitement about global career possibilities"
+    },
+    {
+      "angle_number": 14,
+      "angle_name": "The Portfolio Power",
+      "description": "Lead with 'portfolio first'—the tangible game asset you ship. Position this as the real differentiator versus teaching alone.",
+      "sample_headline": "Forget Certifications. Employers Want to See This.",
+      "sample_body": "You don't graduate with a certificate—you graduate with a published game. That shipped game is your resume. Employers don't ask 'Do you have credentials?' They ask 'What have you built?'",
+      "target_audience": "Practical-minded learners, those skeptical of credentials alone, ambitious builders",
+      "emotional_trigger": "Confidence that their work speaks for itself + desire to prove capability tangibly"
+    },
+    {
+      "angle_number": 15,
+      "angle_name": "The Affiliate Exclusivity",
+      "description": "Position the affiliate link/promo code as a 'VIP pass'—exclusive bonuses, priority access, and special perks not available elsewhere.",
+      "sample_headline": "Your Friend Just Unlocked GameReady's Secret Discount.",
+      "sample_body": "10% off. Free trial lesson. Priority access to expert workshops. This offer? Only through this link. Your friend hooked you up. Don't miss it.",
+      "target_audience": "Deal-seekers, those referred by friends, cost-conscious learners valuing exclusivity",
+      "emotional_trigger": "FOMO + feeling special + trust in peer recommendations"
+    },
+    {
+      "angle_number": 16,
+      "angle_name": "The Adult Comeback",
+      "description": "Specific angle for older adults (35+) wanting to switch careers. Normalize career changes and position GameReady as ageless.",
+      "sample_headline": "It's Not Too Late to Build Games (And Get Paid Well).",
+      "sample_body": "You're not 22. You're 42. Even better. Your life experience, discipline, and maturity are assets. GameReady welcomes career-changers of all ages. Studios hire based on skill, not birthday.",
+      "target_audience": "Career-switchers aged 35-55, older workers in declining industries, second-act seekers",
+      "emotional_trigger": "Overcoming age-based self-doubt + pride in second act possibilities + economic motivation"
+    }
+  ]
+}
