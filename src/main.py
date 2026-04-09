@@ -2,8 +2,8 @@ from fastapi import FastAPI
 import uvicorn
 
 from settings import Settings
-from new_ad import new_ad_router
-from webhook import webhook_router
+from api.new_ad import new_ad_router
+from api.webhook import webhook_router
 
 app = FastAPI()
 settings = Settings()
