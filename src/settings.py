@@ -8,3 +8,5 @@ class Settings(BaseSettings):
 
     port: int = 8000
     host: str = "0.0.0.0"
+
+    heygen_api_key: str
