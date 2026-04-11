@@ -1,6 +1,7 @@
 import httpx
 
 HEYGEN_BASE_URL = "https://api.heygen.com/v3"
+DEFAULT_AGENT_STYLE_ID = "cb896c823a334e2c8784f8c154007aa8"
 
 
 class HeyGenClient:
@@ -11,3 +12,6 @@ class HeyGenClient:
 
     def me(self):
         return self.client.get("/users/me").json()
+
+    def gen_agent(style_id: str = DEFAULT_AGENT_STYLE_ID):
+        pass

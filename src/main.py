@@ -1,5 +1,6 @@
 from api.heygen import HeyGenClient
 from settings import settings
+import json
 
 
 def ad_gen(request):
@@ -8,7 +9,9 @@ def ad_gen(request):
 
 def test():
     client = HeyGenClient(settings.heygen_api_key)
-    print(client.me())
+    json.dump(
+        client.client.get("/video-agents/styles").json(), open("styles.json", "w")
+    )
 
 
 if __name__ == "__main__":
