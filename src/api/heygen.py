@@ -18,7 +18,6 @@ class HeyGenClient:
     def agent_gen(
         self,
         prompt,
-        style_id=DEFAULT_AGENT_STYLE_ID,
         avatar_id=DEFAULT_AVATAR_ID,
     ):
         response = self.client.post(
@@ -26,7 +25,6 @@ class HeyGenClient:
             json={
                 "mode": "generate",
                 "prompt": prompt,
-                "style_id": style_id,
                 "avatar_id": avatar_id,
                 "orientation": "portrait",
             },

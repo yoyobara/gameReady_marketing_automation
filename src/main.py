@@ -13,7 +13,7 @@ def ad_gen(request):
 
     status, video_id = client.poll_agent(session_id)
     while status != "completed":
-        sleep(1)
+        sleep(30)
         status, video_id = client.poll_agent(session_id)
 
     status, video_url = client.poll_video(video_id)
