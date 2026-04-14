@@ -1,5 +1,7 @@
 import httpx
-from json import dumps as jsondumps
+from logging import getLogger
+
+logger = getLogger(__name__)
 
 HEYGEN_BASE_URL = "https://api.heygen.com/v3"
 DEFAULT_AGENT_STYLE_ID = "cb896c823a334e2c8784f8c154007aa8"
@@ -31,7 +33,8 @@ class HeyGenClient:
         )
         data = response.json()["data"]
 
-        print(jsondumps(data, indent=4))
+        logger.debug(data)
+        logger.info(f"started agent session: {data['session_id']}")
 
         return str(data["session_id"])
 
@@ -39,7 +42,8 @@ class HeyGenClient:
         response = self.client.get(f"/video-agents/{session_id}")
         data = response.json()["data"]
 
-        print(jsondumps(data, indent=4))
+        logger.debug(data)
+        logger.info(f"agent session status polled: {data['status']}")
 
         return data["status"], data["video_id"]
 
@@ -47,6 +51,7 @@ class HeyGenClient:
         response = self.client.get(f"/videos/{video_id}")
         data = response.json()["data"]
 
-        print(jsondumps(data, indent=4))
+        logger.debug(data)
+        logger.info(f"video status polled: {data['status']}")
 
         return data["status"], data.get("video_url")
