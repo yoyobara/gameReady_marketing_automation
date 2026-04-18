@@ -20,5 +20,11 @@ def load_marketing_angles() -> list[MarketingAngle]:
     return [MarketingAngle(**angle) for angle in angles_json]
 
 
+@lru_cache(maxsize=1)
+def load_assets_ids() -> list[str]:
+    with open("assets/heygen_assets_ids.json", "r") as f:
+        return json.load(f)
+
+
 def get_random_marketing_angle() -> MarketingAngle:
     return random.choice(load_marketing_angles())

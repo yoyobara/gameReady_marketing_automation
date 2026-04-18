@@ -20,6 +20,7 @@ class HeyGenClient:
     def agent_gen(
         self,
         prompt,
+        assets_ids,
         avatar_id=DEFAULT_AVATAR_ID,
     ):
         response = self.client.post(
@@ -29,6 +30,10 @@ class HeyGenClient:
                 "prompt": prompt,
                 "avatar_id": avatar_id,
                 "orientation": "portrait",
+                "files": [
+                    {"type": "asset_id", "asset_id": asset_id}
+                    for asset_id in assets_ids
+                ],
             },
         )
         data = response.json()["data"]
