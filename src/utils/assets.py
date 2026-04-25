@@ -21,8 +21,8 @@ def load_marketing_angles() -> list[MarketingAngle]:
 
 
 @lru_cache(maxsize=1)
-def load_assets_ids() -> list[str]:
-    with open("assets/heygen_assets_ids.json", "r") as f:
+def load_agent_assets() -> dict[str, str]:
+    with open("assets/agent_assets.json", "r") as f:
         return json.load(f)
 
 
